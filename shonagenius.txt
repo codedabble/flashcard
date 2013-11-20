@@ -1,0 +1,541 @@
+nyika 	world, land, country			5		testing\nwith new line
+kuenda	to go			5		
+kuona	to look			5		
+kufamba	to walk			5		
+kutaura	to speak			4		
+kutenga	to buy			5		
+kutakura	to carry			5		
+kuchera	to dig			0		
+kugara	to sit or live			4		
+bhegi	bag					
+kutora	to bring take					
+kuda	to love					
+nhema	black					
+pfumbu	grey					
+chena	white					
+girini	green					
+yero	yellow					
+tsvuku	red					
+bhurauni	brown					
+bhuruu	blue					
+angu	my (prefixed noun class)					
+ako	your					
+ake	his					
+edu	our					
+enyu	your (plural)					
+avo	their					
+zita	name					
+ndiri	i am					
+tiri	we are					
+uri	you are					
+muri	you are					
+ari	he is					
+vari	they are					
+we/che/ne/na	of/with					
+kufara	to be happy					
+kubvunza	to ask					
+kusangana	to meet					
+kusvika	to arrive					
+kudzoka	to return					
+kudya	to eat					
+kurara	to sleep					
+ine	 have			3		
+nzara	hunger					
+imbwa	dog					
+chirungu	English					
+zvishoma	a little			3		
+kufarira	to like					
+kushanda	to work					
+ndine	I have					
+ndino	I do					
+ndicha	I will					
+nda	I did					
+naka	pretty/tasty/beautiful					
+kugona	can (be capable)					
+makore	years					
+kutererera	to listen					
+kuuya	to come					
+kupi	where					
+ani	who					
+rini	when					
+hindava	why					
+chii	what			3		
+sei	how					
+angani	how many					
+kurwara	being sick			3		
+miriwo	vegetables					
+chikoro	school					
+moto	fire					
+pano	by here					
+kuno	to here					
+muno	in here					
+apo	there					
+musika	market					
+mu (preposition)	in					
+ku (preposition)	to, from					
+pa (preposition)	by, around					
+pei	please give (ndipei -> me)					
+kudzidza	to learn					
+kubatsira	to help					
+kusara	to stay					
+nani	fine/okay					
+nekuti/nokuti/nokuda	because					
+hakuna	there are not					
+kune	there is					
+chenjerai	careful!					
+chengeta, tarisa	look after					
+kubika	to cook					
+kunzwa	to hear					
+kutema	to chop (something big)					
+kupedza	to finish					
+kubva	to come from					
+chero	any					
+rwizi/nzizi	river(s)					
+kufanira	to need to/must					
+kufunda	to learn (language)					
+matombo	rocks					
+chete	only					
+mazai	eggs					
+mukomana	boy					
+musikana	girl					
+imba	house					
+simba	strong					
+ndaguta	I'm full					
+kadiki	small					
+huru	big					
+hombe	big					
+kurumidza	quickly					
+pamwe	together					
+pamwe chete	maybe					
+zvikuru	a lot					
+kuziva	to know					
+kunzwisisa	to understand					
+kutamba	to play					
+newe	with you					
+kuita	hacer to do					
+kudzidzira	to practice					
+duku	small					
+ishe komborera	god bless					
+kurera	nurture					
+ko	so/and					
+kuyimba	to sing					
+kuverenga	to read					
+kunyora	write					
+kupinda	to enter					
+kunwa	to drink					
+kumuka	to wake up/get up					
+wo	also					
+kudzidzisa	to teach					
+kusevenza	to work					
+kuswera	to pass the day					
+kubuda	to exit					
+kufarira	to be glad					
+izvozvi	now					
+kusika	to create					
+gore	year					
+nzara	hunger					
+ndega	alone					
+kumba	home					
+kumhanya	to run					
+goodbye	chisara					
+kutambura	to struggle					
+ino	this					
+mu	in					
+ku	to					
+ayo	its					
+kurega	to stop (doing something)					
+ndiani	who is it?					
+shinga	brave					
+						
+gara zviya	by the way					
+pasi	ground					
+panze	outside					
+rumbo	song					
+mvura	water					
+zuva	day					
+nyaya	tale/story					
+mukati	inside					
+ndichaenda kutown KUMA 4	(I'm going) at (time)					
+hotera	hotel					
+pedyo	almost					
+potsa	to miss/omit					
+tsvaka	look for					
+hapana	nothing					
+pamwe panhu	somewhere					
+nhingi	someone					
+onini	something					
+nyanya	too much					
+long	refu					
+short	pfupi					
+baiwa	stab (verb)					
+shungu	effort					
+kupera	to end					
+zvishoma	slower					
+-wanda	a lot					
+kusiya	leave something					
+kuita kunge	similar to 					
+muroora	bride					
+nziyo	song					
+rice	mupunga					
+nashe	lord					
+-isa	too (verb modifier)					e.g. ndagutisa (I'm very full)\n
+beautiful						
+nyoro	fresh					
+pane	there are					
+hapana	there are no					
+-sa	too (adjective)					-sa, e.g. kuresa (too far), padyosa, mutetesa\n
+ipi	which					nziyo ipi?
+grow	kura					
+nyope 	lazy person					
+nurture	kurera					
+kuseka 	laugh					
+farira	like					
+gadzi	huge					
+charakadenga	beautiful					
+chimbidza	fast					
+-wo	also (respect)		suffix verb			
+-ka	past tense		infix verb			
+-sa	very		suffix adj			
+-isa	too		suffix verb			
+-ira	been -en (active to passive)		suffix verb			
+-ku-	you (object of verb)		infix verb			
+-ndi- 	me (object of verb)		infix verb			
+chirinani	better					
+chinopisa	hot					
+chinotonhora	cold					
+chakachipa	cheap					
+chinodhuru	expensive					
+yakakwana	enough					
+gwariva (rangu)	soundboard (mbira)					
+dzokorora	repeat					
+dzokera	go back					muchadzokera rini kumusha (when are you going back to rural home)
+dzoka	come back					
+amai guru	older aunt					
+amai nini	younger aunt					
+baba mukuru	older uncle					
+baba munini/mudiki	younger uncle					
+kuvhura	to open					
+musuwo	door					
+gumbo/makumbo	legs					
+ruoko/maoko	arm/hand (s)					
+bhodhoro	bottle					
+madhora	caterpillar					
+tsoka	foot					
+mberi	in front/forward					
+(chaka)ora	be rotten (bad)		action adj			
+(ino)penga	be stupid/idiotic		action adj			
+zvakanyanya	to be too much		action adj			
+zvakawanda	to be a lot		action adj			
+uri kuitei?	what are you doing?					
+kukama mukaka	to milk the cow					
+zvimbo	place					
+tanga	to be first /start					e.g. ndatanga kusvika pano (I was first to arrive here)\n
+batsira	help					
+mazviita	you've done it (thanks!)					
+nyore	easy					
+ngano	folktales					
+-nga	to be/seem/to be like (como)					ndakanga ndabaiwa\n\n
+kuridza mbira	to play mbira					
+kutamba mbira	 to dance to mbira					
+zvino revei	what's the meaning of this?					
+izwi	word					
+kwanga kurisei (kumusha)	how was your time in (somewhere)					
+kwanga kwakadini (kuChinoyi)	how was your time in (somewhere)					
+bvudzi	hair					
+huni	firewood					
+mazino	teeth					
+handina (kuona)	I didn't (verb)					
+gidi	gun					
+yaive	was					nezuro yaive Sunday (yesterday was sunday)\n\n
+Muvhuro	Monday					
+nhasi	today					
+nezuro	yesterday					
+mangwana	tomorrow					
+kutonga	to rule					
+kupindura	to respond					
+kusuka	to clean					ndiri kuda kusuka maplates ( I want to clean the plates)\n
+Mugovera	Saturday					
+shamwari yangu	my friend					
+(aka)tsamwa	(she is) angry					
+gejo	plough					
+mhuru	calf					
+kubvisa	to remove					
+hove	fish					hove dzinogara mumvura (the fish live in the water)\n
+wuswa	grass					imba yewuswa (grass thatch)\n
+hari	claypot					
+i-	it's a 					if mu/mi/mu prefix, then just say the noun\nie. manhanga (it's pumpkins)\nmuti (it's a tree)\n
+zuva ranhasi	this day					
+zuva rabuda	sunrise					
+zuva radoka	sunset					
+mvura inotonhora	cold water					
+kwava kudziya	it will be warm					
+usa (bike)	don't (verb with e ending)					
+unani?	who are you with?					
+ndina (amai anesu)	I'm with (someone)					
+ndipindeiwo?	may I enter/pass?					
+ndipeiwo apuro	please give me (something)					
+usa daro	don't do that					
+pindai zvenyu	please enter					
+ndinotaura sei?	how do I say?					
+dhorobha	town					
+handizvinzwisisa	I don't understand it					
+handina kuzvinzwisisa	I didn't understand it					
+kure sei kubva pano?	how far is it from here?					
+ndeipi?	what's up? (which is it)					
+hapana iripo	no					
+pepa	paper					
+ziso/maziso	eye(s)					
+ears	nzeve					
+nose	mhino					
+mouth	muromo					
+kumeso (kwangu)	(my) face 					
+tauya kuzobata maoko	condolences (we come in order to hold hands)					
+kugeza (muviri) wangu	to wash (some part of body)					
+nzwara	nails					
+kucheka	to cut (something small)					
+kupfeka	to wear/put on					
+hembe (dzangu)	clothes (my)					
+makadini	greetings (1st time and after some time)					
+hatichagari, tiri kumhanya	we are no longer staying, we're running					
+ndiri kurwara nemusoro	I have a headache					
+ndabva ndafunga	I just thought of something					
+gumbo/makumbo	leg(s)					
+musana	back (as in body)					
+ndine zvandiri?						
+kufamba unoona	proverb, to walk is to see/discover					
+njuzu	mermaid/white water spirits					
+kupera	to end/pass					ndakasvika musi (I arrived on) weChina chakapera (last Thursday)
+ndine zvandiri kufunga	I'm thinking of something else					
+						
+ndoita sei?	what can I do?					
+munin'ina	younger brother					
+mudenga	sky					
+makore	clouds (also years)					
+nyika (LL)	land/country					
+nyika (HH)	immerse in water					
+nhasi hakuna makore	there are no clouds today					
+ndatsva (pronounce chua)	I'm feeling hot					
+kuri kupisa	it's hot					
+kuri kutonhora	it's cold					
+kuri kunaya	it's rainy					
+-zo-	finally/eventually (infix)		infix verb			munozoitei (what will you finally/eventually do)
+-va-	they (object of verb)		infix verb			uchavabvunza ( you will ask them)\n
+-mu-	he/she (object of verb)		infix verb			ndichamubvunza (i will ask him)\n
+nguva	time					
+uya/chiya	that (thing) we both know about					
+musi (weChina) chakapera	last (thursday)					
+mazuva matatu akapera	three days ago					
+rudo	love					
+kukunda	overcome					
+champupuri	whirlwind					
+gogogoi	knock-knock					
+changamire	head of chief					
+ishe	chief					
+mambo	king (of ancestral spirits)					
+tsvimbo	knobkerry					
+kwete						
+chibage	maize					
+zviyo	finger millet					
+manwiwa	watermelon					
+mhofu	eland					
+tswanda	basket					
+rusero	winnowing basket					
+mapakatwa	knives					
+nzou	elephant					
+watodya here?	have you eaten?					
+ndinodzoka mangawa	I will return tomorrow					
+bichana	bit by bit					
+hondo	war					
+shoko	word					
+kubata	to touch					
+mwedzi	month					
+munogarepi?	where do you live?					
+kuvaka	to build					
+kufambira	to visit					
+pamuromo paharuna	here's the person that caused the trouble.					
+kumira	to stand (alone)					
+(nd)ega	alone (adj)					
+urombo	poverty					
+kutaurirana	to talk with each other					
+sora	grass					
+nyoro	fresh					
+chikwama/zvikwama	purse					
+ndiro	plate					
+ndari	ceremonial beer					
+bhutsu	shoes					
+ndichiri (kuda)	I still (want)					
+doro	beer					
+gumi	ten					
+kudira	to pour					
+gomo	mountain					
+unyope	laziness					
+kunyima	to be stingy					
+ndima (yako)	(your) section/part					
+nyoka	snake					
+ndiro	plate					
+muputo?	totem					
+kutanga	to start					
+kufudza	to herd					
+kuzvuva	to pull					
+kusanduzvira	to push					
+nhema (LH)	lies					
+mumvuri	shade					
+mvuu	hippo					
+nzara (LH)	nails					
+nzara (HL)	hunger					
+mhuri	family					
+nzungu	groundnuts					
+kushevedza	to call out					
+kutsitsi	to feel pity					
+dhadha (LH)	duck					
+kupfuura	to pass, overtake					
+kupfura	to shoot					
+ndichiri	I still					
+ kubva (eg. year 1) kusvika (year 5)	from somepoint to somepoint					
+iwzi rinopikisana rakutonhora ndikupisa	the opposite word of cold is hot					
+ndinopikisana nezva uri kutaura	I disagree with what you are saying					
+mazwi muuzhinji	plural words					
+kukwetsura mhere	to cry loudly					
+mupenyu zvake	he's alright					
+zvangu	as for me					
+shandira pamwe	work together					
+akareba	tall					
+kuyedza	to try					
+kupenyu	to live					
+svondo rino	this week					e.g. vachasvika svondo rino (they will arrive this week)\n
+kuweza	to work wood					
+jangano	communal labor					
+chechi	church					
+-nga-	conditional prefix (may/can/might?)					e.g. ndingaenda kuZimbabwe?\n(may I go to Zimbabwe?)
+magetsi	electricity					
+ndanga (ndaneta)	i was (tired)					
+ane tsvina	(he's) dirty (he has dirt)					
+hembe iyi ine tsvina	this dress is dirty					
+saka	so/ therefore					
+kumwe kunu	anywhere					handifaniri kuenda kumwe kunu (I don't have to go anywhere)\n
+kushandisa	to use					
+ndanga ndichipiswa mumba	I was hot in the house					
+kunetswa	to be bothered by					
+zvakawandisa	too many					
+(eugene) ano nyima	(someone) is stingy					
+zvakwana	it's enough					
+ndanga ndiri kutown	I was in town					
+kuzorora	rest					
+panga pakadini pamba	how was the house (nearby)					
+pane pandiri	somewhere (near)					
+pane kwandiri	somewhere (further)					
+munzwa	thorns					
+kuora	to be rotten					
+tarisa	look/watch					
+kushambira	to swim					
+haina	it doesn't have					
+nyanga	horn					
+ava ndi vaMujuru	This is mr Mujuru (introducing)					
+iwe uri mukadzi	you are a woman					
+iye mukadzi	she is a woman					
+kwiriti	wrapping cloth for mother in law (part of lobola)					
+PAndanga ndiri kuMhondoro	when I was in Mhondoro					
+n'anga	traditional healer					
+mudzidzi	teacher					
+chivanze	yard					
+uyu	this					
+uyo	that					
+bhora	ball					
+jongwe	rooster					
+kukukuridza	to crow					
+kutsvaira	to sweep					
+imbwanana/handa	puppy					
+mudanga	kraal (cattle enclosure)					
+mwenje	light /lighting					
+denga	sky					
+nyanza (LH)	ocean					
+mwena (LH)	tunnel					
+gomba (LH)	pit					
+bako (HL)	cave					
+kuruma	to bite/sting					
+zvinorwadza 	it's painful					
+(mwedzi) wapfuura	last month					
+(mwedzi) yapfuura	the past months					
+ndege	plane					
+(mwedzi) unotevera	next month					
+(mwedzi) inotevera	the next months					
+Tendai anogara achifara	Tendai is always happy					
+MuSingapore munogara muchipisa	In Singapore, it's always hot.					
+ane TSIKA dzakanaka	she has good manners					
+-ka-shata	ugly					
+tsvarakadenga	beautiful (for women only)					
+chipukandipemwenje	ugly (for women - insect, give me light)					
+bveni/gudo	baboon (symbol for thief)					
+hwai	sheep (symbol for humbleness)					
+svosve/masvosve	ant/ants					
+majuru	termites					
+njiva	dove (symbol for love)					
+vanodanana	they are in love					
+tsuro	hare (symbol for intelligence)					
+kunya	to be bothered					
+kufemedza	to smell					
+kukwira	to climb/get on					
+kuburuka	to descend/get off					
+kutukana	quarrelling with each other					
+kugadzira (mbira/dovi)	to make (mbira/peanut butter)					
+kugocha (nyama)	to roast (meat)					
+fashaira	to boil					
+mutupo wako chii	what is your totem?					
+kuti uchida	if you wish					
+kuti (u-)chi (verb)	if you (verb)					
+kuzivisa	to inform					
+kudzidza	lesson					
+mhanza	luck						
+zvekare	again						
+rwendo	journey						
+kufamba rwendo	travelling						
+murare zvakanaka	sleep well						
+Dzimunguwa	maybe						
+ane pfungwa dzakapinza	he is smart						
+mudzidzisi	teacher						
+ane moyo munyoro	he has patience						
+akura/chembera	old						
+svutu gadzike	tea (pick up and put down)						
+mvani	swamp						
+mvura	rain						
+kudidza	to water (field)						
+kukanda	to throw						
+kurwa	fight						
+kuwana	to get						
+ndinoti	i think/suppose						
+ndingada	i would like						
+ndingaenda nguvai?	what time may i go?						
+magedzi anogara achienda	electricity is always going						
+kunyara	to be shy						
+kudziya	to be warm						
+pari nani panze	it is better outside						
+kufa	to die						
+uchaona moto	you are in trouble						
+kuchimbidza	to hurry						
+kuisa	to put						
+chigero (changu)	scissors						
+munyu (wangu 3)	salt						
+tzime (yangu - 9 hl)	well						
+ndafunga wabaiwa nemunzwa	i think shi think she was stabbed by a thornhirn						
+kusuwa	to miss (be thnking about)						
+kusuwana	to miss each other						
+kuramba /kurambiwa	to refuse ( to be seaparated)						
+ndaramba	i refuse						
+rufuse	ashes						
+mukati	inside (a room in the house)						
+nekukurumidza	with speed (quickly)						
+wanonoka	you are late						
+handisati	not yet						
+kutsvaka	to look for,search for						
+panzvimbo	area						
+kunatswa	to be  blessed
+						
+kunakitswa
+	to enjoy						
+hobo (lh)	banana						
+kubvani	so,then						
+muvha (lh)	road						
+kurwa	to fight						
+masure	behind,after						
+tauraizve	speak again						
+nematambudziko	condolences						

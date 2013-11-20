@@ -1,0 +1,4 @@
+title=Flashcard
+author=Eugene Seah
+orientation=landscape
+fullscreen=1
