@@ -66,7 +66,7 @@ class FlashcardApp(App):
 	content.add_widget(lowbox)
 
 	self.addpopup = Popup(content=content, title='New card',
-                      size_hint=(.7, .4),
+                      size_hint=(.7, .4), pos_hint={'top':1},
                       auto_dismiss=False, anchor_y='top')
         btncancel.bind(on_release=self.addpopup.dismiss)
 	self.addpopup.open()
