@@ -73,6 +73,8 @@ class FlashcardApp(App):
 	
 
     def updateAnsLabel(self, *args):
+	if (self.currcard == []):
+		return;
 	if (self.toggle):
 		answerTxt = geniusflash.getquestion(self.currcard) 
 	else:
@@ -85,6 +87,8 @@ class FlashcardApp(App):
 	return self.wordtxt
     
     def updateToggle(self, *args):
+	if (self.currcard == []):
+		return;
 	if (self.toggle):
 		self.toggle = 0;
 		self.wordtxt = geniusflash.getquestion(self.currcard)
@@ -97,7 +101,9 @@ class FlashcardApp(App):
 
 	
     def updateCard(self, *args):
-        self.currcard= geniusflash.getrandomcard(self.mycardlist)
+	if (self.mycardlist == []):
+		return;
+	self.currcard= geniusflash.getrandomcard(self.mycardlist)
 	if (self.toggle == 0):
 		self.wordtxt = geniusflash.getquestion(self.currcard)
 	else:
@@ -110,13 +116,16 @@ class FlashcardApp(App):
 	root = BoxLayout(orientation='vertical')
 	topbox = BoxLayout(orientation='vertical')
 	lowerbox = BoxLayout()
+	notetxt = ""
 	self.questionLabel = Label(text=labeltxt, font_size=72, text_size=(780, None));
-	notetxt = geniusflash.getnotes(self.currcard)
-	if len(notetxt):
-		self.notesLabel = Label(text=notetxt, font_size=32)
+	self.notesLabel = Label(text=notetxt, font_size=32)
+	if (len(self.currcard) >= 7):
+		print "currcard %s" % self.currcard
+		notetxt = geniusflash.getnotes(self.currcard)
+		if len(notetxt):
+			self.notesLabel = Label(text=notetxt, font_size=32)
 	topbox.add_widget(self.questionLabel)
-	if len(notetxt):
-		topbox.add_widget(self.notesLabel)
+	topbox.add_widget(self.notesLabel)
 	root.add_widget(topbox)
 
 #	loadFileButton = Button(text='Load', size_hint_y=None, height=70)
